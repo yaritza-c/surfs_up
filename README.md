@@ -15,9 +15,11 @@ Showing results for the months on June and December
 ![image](https://user-images.githubusercontent.com/98724851/167339430-97e160f1-9679-4baa-8876-5036a627b553.png)
 
 
-### December Temp
+#### December Temp
 ![image](https://user-images.githubusercontent.com/98724851/167339310-3b80e8c5-3041-4a61-97ce-fc8aa95e5b31.png)
 
 
 
 ## Summary
+In conclusion both June and December months have very similar weather
+
